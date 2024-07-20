@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "owQFvkW4W5s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EbraSha\\Documents\\Github\\Abdal Windows Cleaner\\Abdal Windows Cleaner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EbraSha\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.6\\microsoft.net.illink.tasks.8.0.6.nupkg.sha512",
+    "C:\\Users\\EbraSha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\EbraSha\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\EbraSha\\.nuget\\packages\\runtime.any.system.io\\4.3.0\\runtime.any.system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\EbraSha\\.nuget\\packages\\runtime.any.system.reflection\\4.3.0\\runtime.any.system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\EbraSha\\.nuget\\packages\\runtime.any.system.reflection.primitives\\4.3.0\\runtime.any.system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\EbraSha\\.nuget\\packages\\runtime.any.system.runtime\\4.3.0\\runtime.any.system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\EbraSha\\.nuget\\packages\\runtime.any.system.runtime.handles\\4.3.0\\runtime.any.system.runtime.handles.4.3.0.nupkg.sha512",
+    "C:\\Users\\EbraSha\\.nuget\\packages\\runtime.any.system.runtime.interopservices\\4.3.0\\runtime.any.system.runtime.interopservices.4.3.0.nupkg.sha512",
+    "C:\\Users\\EbraSha\\.nuget\\packages\\runtime.any.system.text.encoding\\4.3.0\\runtime.any.system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\EbraSha\\.nuget\\packages\\runtime.any.system.threading.tasks\\4.3.0\\runtime.any.system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\EbraSha\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\EbraSha\\.nuget\\packages\\system.private.uri\\4.3.0\\system.private.uri.4.3.0.nupkg.sha512",
+    "C:\\Users\\EbraSha\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\EbraSha\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\EbraSha\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\EbraSha\\.nuget\\packages\\system.runtime.handles\\4.3.0\\system.runtime.handles.4.3.0.nupkg.sha512",
+    "C:\\Users\\EbraSha\\.nuget\\packages\\system.runtime.interopservices\\4.3.0\\system.runtime.interopservices.4.3.0.nupkg.sha512",
+    "C:\\Users\\EbraSha\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\EbraSha\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\EbraSha\\.nuget\\packages\\windowsshortcutfactory\\1.2.0\\windowsshortcutfactory.1.2.0.nupkg.sha512",
+    "C:\\Users\\EbraSha\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.6\\microsoft.netcore.app.runtime.win-x86.8.0.6.nupkg.sha512",
+    "C:\\Users\\EbraSha\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.6\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.6.nupkg.sha512",
+    "C:\\Users\\EbraSha\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.6\\microsoft.aspnetcore.app.runtime.win-x86.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
